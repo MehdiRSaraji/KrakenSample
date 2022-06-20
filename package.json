@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  },
+  "description": ""
+}
